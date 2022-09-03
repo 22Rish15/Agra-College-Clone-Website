@@ -1,2 +1,2 @@
-# Agra-College-Web-Page
-This is just a simple Agra college webpage using Html, CSS,,
+# Agra-College-Clone-Website
+This is just a simple Agra college clone website using Html, CSS,,
